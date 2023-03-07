@@ -13,5 +13,4 @@ Thank you for visiting!</p>
 
 <p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&layout=compact&show_icons=true&theme=dark" /></p>
 
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-" /></a>
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
