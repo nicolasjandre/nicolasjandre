@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-<p align="center">My name is Nicolas Jandre, and I am a 24-year-old front-end developer from Teresópolis.</p>
+<p align="center">My name is Nicolas Jandre, and I am a 24-year-old front-end developer from Brazil.</p>
 
 <p align="center">Here you will find a sample of my most recent projects, where I have used different technologies to develop modern and functional web applications. Some of the technologies I am proficient in are: ReactJS, NextJS, TypeScript, JavaScript, CSS, HTML, among others.</p>
 
