@@ -6,7 +6,7 @@ Here you will find a sample of my most recent projects, where I have used differ
 
 Among the projects I have shared, you will find applications ranging from authentication and content management systems to note-taking and online payment tools. I always strive to stay up-to-date with market trends and use best development practices to create efficient and high-quality solutions.
 
-Feel free to explore my projects and get in touch if you would like to discuss job opportunities or collaborate on interesting projects.
+Feel free to explore my projects and get in touch if you would like to discuss job opportunities or collaborate on interesting projects.</p>
 
 Thank you for visiting!</p>
 <p align="center"><img alt="Nicolas Jandre GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" /></p>
