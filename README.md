@@ -9,7 +9,6 @@
 <p align="center">Feel free to explore my projects and get in touch if you would like to discuss job opportunities or collaborate on interesting projects.</p>
 
 <p align="center">Thank you for visiting!</p>
-<p align="center"><img alt="Nicolas Jandre GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" /></p>
 
 <p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&layout=compact&show_icons=true&theme=dark" /></p>
 
