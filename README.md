@@ -6,8 +6,6 @@
 
 <p align="center">Among the projects I have shared, you will find applications ranging from authentication and content management systems to note-taking and online payment tools. I always strive to stay up-to-date with market trends and use best development practices to create efficient and high-quality solutions.</p>
 
-<p align="center">Feel free to explore my projects and get in touch if you would like to discuss job opportunities or collaborate on interesting projects.</p>
-
 <p align="center">Thank you for visiting!</p>
 
 <p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolasjandre&layout=compact&show_icons=true&theme=dark" /></p>
