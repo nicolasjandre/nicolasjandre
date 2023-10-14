@@ -8,8 +8,8 @@
 
 <p align="center">Thank you for visiting!</p>
 
-<p align="center"><img height=200 alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&langs_count=6&theme=dark&layout=compact" />
-<img height=200 alt="Nicolas Jandre github status" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" />
+<p align="center"><img width=300 alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&langs_count=6&theme=dark&layout=compact" />
+<img width=300 alt="Nicolas Jandre github status" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
