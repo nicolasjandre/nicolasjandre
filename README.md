@@ -8,8 +8,8 @@
 
 <p align="center">Thank you for visiting!</p>
 
-<p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&langs_count=6&theme=dark&layout=compact" />
-<img alt="Nicolas Jandre github status" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" />
+<p align="center"><img height=300 alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&langs_count=6&theme=dark&layout=compact" />
+<img height=300 alt="Nicolas Jandre github status" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" />
 </p>
 
 <p align="center"><a href="https://www.linkedin.com/in/nicolasjandre"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
