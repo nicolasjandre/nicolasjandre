@@ -8,7 +8,7 @@
 
 <p align="center">Thank you for visiting!</p>
 
-<p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolasjandre&show_icons=true&theme=dark&langs_count=3" />
+<p align="center"><img alt="Nicolas Jandre top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasjandre&langs_count=6&theme=dark&layout=compact" />
 <img alt="Nicolas Jandre github status" src="https://github-readme-stats.vercel.app/api?username=nicolasjandre&show_icons=true&theme=dark" />
 </p>
 
